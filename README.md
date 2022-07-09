@@ -4,7 +4,6 @@ My name is Amin Babaei
 FrontEnd devloper
 -----------------------------
 
-*   👷‍♂️  I'm proficient in react js and familiar with node js
 *   🤝  I'm open to collaborating on interesting projects as a web developer
               
 ### Skills
